@@ -14,4 +14,8 @@ Every time the right mouse button is pressed, the softaim will be activated aimi
 
 \- the program is not provided with antiban or similar
 
-### USE THIS SOFTWARE AT YOUR OWN RISK
+### ⚠️ USE THIS SOFTWARE AT YOUR OWN RISK ⚠️
+
+[Support me on my twitch channel 🟣](twitch.tv/tha_nixo)
+
+[Support me on my youtube channel 🔴](https://youtube.com/@tha_nixo)
